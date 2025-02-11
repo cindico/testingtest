@@ -1,0 +1,431 @@
+{
+    "author": "linb.net@gmail.com",
+    "cat": "",
+    "compile_args": "",
+    "compile_ver": "",
+    "confidential_dps": {},
+    "description": "",
+    "design_parameters": {
+        "block_count": 2,
+        "blocks": [
+            {
+                "arguments": [
+                    {
+                        "name": "self",
+                        "ontology": "Unknown",
+                        "type": "Unknown"
+                    }
+                ],
+                "end": 705,
+                "line_no": [
+                    15,
+                    19
+                ],
+                "name": "setUp",
+                "ontology": "Unknown",
+                "scope": "g.0",
+                "start": 514
+            },
+            {
+                "arguments": [
+                    {
+                        "name": "self",
+                        "ontology": "Unknown",
+                        "type": "Unknown"
+                    },
+                    {
+                        "name": "resource_group",
+                        "ontology": "Unknown",
+                        "type": "Unknown"
+                    },
+                    {
+                        "name": "location",
+                        "ontology": "Unknown",
+                        "type": "Unknown"
+                    }
+                ],
+                "end": 1487,
+                "line_no": [
+                    22,
+                    41
+                ],
+                "name": "test_servermanager_gateways",
+                "ontology": "Unknown",
+                "scope": "g.0",
+                "start": 734
+            }
+        ],
+        "input_file": "py-local/Azure/servermanager/azure-mgmt-servermanager/test_mgmt_servermanager.py",
+        "lang": "python",
+        "parse_time": "0:00:02.181760",
+        "scopes": {
+            "g": {
+                "declarations": {},
+                "end": 1,
+                "index": 1,
+                "line": [
+                    8,
+                    45
+                ],
+                "name": "global",
+                "start": 1,
+                "type": "file_input"
+            },
+            "g.0": {
+                "end": 721,
+                "index": 2,
+                "line": [
+                    13,
+                    41
+                ],
+                "name": "global.MgmtServerManagerTest",
+                "scope": "g",
+                "start": 1,
+                "type": "ClassdefContext"
+            },
+            "g.0.0": {
+                "end": 154,
+                "index": 2,
+                "line": [
+                    15,
+                    19
+                ],
+                "name": "global.MgmtServerManagerTest.setUp",
+                "scope": "g.0",
+                "start": 5,
+                "type": "FuncdefContext"
+            },
+            "g.0.0.0": {
+                "end": 50,
+                "index": 0,
+                "line": [
+                    16,
+                    16
+                ],
+                "name": "global.MgmtServerManagerTest.setUp.super",
+                "scope": "g.0.0",
+                "start": 9,
+                "type": "Atom_exprContext"
+            },
+            "g.0.0.1": {
+                "end": 89,
+                "index": 0,
+                "line": [
+                    17,
+                    19
+                ],
+                "name": "global.MgmtServerManagerTest.setUp.self",
+                "scope": "g.0.0",
+                "start": 23,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1": {
+                "end": 497,
+                "index": 7,
+                "line": [
+                    22,
+                    41
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways",
+                "scope": "g.0",
+                "start": 5,
+                "type": "FuncdefContext"
+            },
+            "g.0.1.0": {
+                "end": 59,
+                "index": 0,
+                "line": [
+                    23,
+                    23
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self",
+                "scope": "g.0.1",
+                "start": 24,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.1": {
+                "end": 92,
+                "index": 0,
+                "line": [
+                    26,
+                    30
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self",
+                "scope": "g.0.1",
+                "start": 25,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.2": {
+                "end": 52,
+                "index": 0,
+                "line": [
+                    32,
+                    32
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self",
+                "scope": "g.0.1",
+                "start": 9,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.3": {
+                "end": 76,
+                "index": 0,
+                "line": [
+                    34,
+                    37
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self",
+                "scope": "g.0.1",
+                "start": 19,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.4": {
+                "end": 52,
+                "index": 0,
+                "line": [
+                    38,
+                    38
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self",
+                "scope": "g.0.1",
+                "start": 9,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.5": {
+                "end": 52,
+                "index": 0,
+                "line": [
+                    40,
+                    40
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.list",
+                "scope": "g.0.1",
+                "start": 20,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.6": {
+                "end": 42,
+                "index": 1,
+                "line": [
+                    41,
+                    41
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self",
+                "scope": "g.0.1",
+                "start": 9,
+                "type": "Atom_exprContext"
+            },
+            "g.0.1.6.0": {
+                "end": 39,
+                "index": 0,
+                "line": [
+                    41,
+                    41
+                ],
+                "name": "global.MgmtServerManagerTest.test_servermanager_gateways.self.len",
+                "scope": "g.0.1.6",
+                "start": 26,
+                "type": "Atom_exprContext"
+            }
+        },
+        "script": "",
+        "type": "script",
+        "variable_count": 7,
+        "variables": [
+            {
+                "indexes": [
+                    0
+                ],
+                "line_numbers": [
+                    [
+                        17,
+                        19
+                    ]
+                ],
+                "name": "self.client",
+                "ontology": "Unknown",
+                "references": [],
+                "replacement_names": [
+                    "^self.client.ekjxj0pk^"
+                ],
+                "scope": "g.0.0",
+                "value_indexes": [
+                    [
+                        23,
+                        113
+                    ]
+                ],
+                "values": [
+                    "self.create_mgmt_client(\r\n            azure.mgmt.servermanager.ServerManagement\r\n        )"
+                ]
+            },
+            {
+                "indexes": [
+                    1
+                ],
+                "line_numbers": [
+                    [
+                        23,
+                        23
+                    ]
+                ],
+                "name": "gateway_name",
+                "ontology": "Unknown",
+                "references": [],
+                "replacement_names": [
+                    "^gateway_name.b7wyrvat^"
+                ],
+                "scope": "g.0.1",
+                "value_indexes": [
+                    [
+                        24,
+                        59
+                    ]
+                ],
+                "values": [
+                    "self.get_resource_name('pygateway')"
+                ]
+            },
+            {
+                "indexes": [
+                    2
+                ],
+                "line_numbers": [
+                    [
+                        24,
+                        24
+                    ]
+                ],
+                "name": "region",
+                "ontology": "Unknown",
+                "references": [],
+                "replacement_names": [
+                    "^region.e9lhw8ud^"
+                ],
+                "scope": "g.0.1",
+                "value_indexes": [
+                    [
+                        18,
+                        29
+                    ]
+                ],
+                "values": [
+                    "'pacifictime'"
+                ]
+            },
+            {
+                "indexes": [
+                    3
+                ],
+                "line_numbers": [
+                    [
+                        26,
+                        30
+                    ]
+                ],
+                "name": "gateway_async",
+                "ontology": "Unknown",
+                "references": [],
+                "replacement_names": [
+                    "^gateway_async.bt7s8mqt^"
+                ],
+                "scope": "g.0.1",
+                "value_indexes": [
+                    [
+                        25,
+                        144
+                    ]
+                ],
+                "values": [
+                    "self.client.gateway.create(\r\n            resource_group.name,\r\n            gateway_name,\r\n            region\r\n        )"
+                ]
+            },
+            {
+                "indexes": [
+                    4,
+                    5
+                ],
+                "line_numbers": [
+                    [
+                        31,
+                        31
+                    ],
+                    [
+                        34,
+                        37
+                    ]
+                ],
+                "name": "gateway",
+                "ontology": "Unknown",
+                "references": [],
+                "replacement_names": [
+                    "^gateway.e4isw60l^",
+                    "^gateway.1vvb5if4^"
+                ],
+                "scope": "g.0.1",
+                "value_indexes": [
+                    [
+                        19,
+                        41
+                    ],
+                    [
+                        19,
+                        114
+                    ]
+                ],
+                "values": [
+                    "gateway_async.result()",
+                    "self.client.gateway.get(\r\n            resource_group.name,\r\n            gateway_name\r\n        )"
+                ]
+            },
+            {
+                "indexes": [
+                    6
+                ],
+                "line_numbers": [
+                    [
+                        40,
+                        40
+                    ]
+                ],
+                "name": "gateways",
+                "ontology": "Unknown",
+                "references": [],
+                "replacement_names": [
+                    "^gateways.2ts2ioo0^"
+                ],
+                "scope": "g.0.1",
+                "value_indexes": [
+                    [
+                        20,
+                        52
+                    ]
+                ],
+                "values": [
+                    "list(self.client.gateway.list())"
+                ]
+            }
+        ]
+    },
+    "encrypted": "",
+    "encrypted_features": {},
+    "file": "# coding: utf-8\r\n\r\n#-------------------------------------------------------------------------\r\n# Copyright (c) Microsoft Corporation. All rights reserved.\r\n# Licensed under the MIT License. See License.txt in the project root for\r\n# license information.\r\n#--------------------------------------------------------------------------\r\nimport unittest\r\n\r\nimport azure.mgmt.servermanager\r\nfrom devtools_testutils import AzureMgmtTestCase, ResourceGroupPreparer\r\n\r\nclass MgmtServerManagerTest(AzureMgmtTestCase):\r\n\r\n    def setUp(self):\r\n        super(MgmtServerManagerTest, self).setUp()\r\n        self.client = ^self.client.ekjxj0pk^\r\n\r\n\r\n\r\n    @ResourceGroupPreparer()\r\n    def test_servermanager_gateways(self, resource_group, location):\r\n        gateway_name = ^gateway_name.b7wyrvat^\r\n        region = ^region.e9lhw8ud^\r\n\r\n        gateway_async = ^gateway_async.bt7s8mqt^\r\n\r\n\r\n\r\n\r\n        gateway = ^gateway.e4isw60l^\r\n        self.assertEqual(gateway.name, gateway_name)\r\n\r\n        gateway = ^gateway.1vvb5if4^\r\n\r\n\r\n\r\n        self.assertEqual(gateway.name, gateway_name)\r\n\r\n        gateways = ^gateways.2ts2ioo0^\r\n        self.assertEqual(len(gateways), 1)\r\n\r\n#------------------------------------------------------------------------------\r\nif __name__ == '__main__':\r\n    unittest.main()\r\n",
+    "lang": "python",
+    "name": "2-test_mgmt_servermanager.py",
+    "o_code": "3-3-680-2",
+    "owner": "lucas.paganini@unvoid.com",
+    "parsed": 1,
+    "price": 0,
+    "producer": "linb.net@gmail.com",
+    "producer_rating": 5,
+    "rating": 5,
+    "size": 1290,
+    "tags": [
+        "Platform:Azure",
+        "Function:Cloud service/Management tools",
+        "Function:Cloud service",
+        "Function:Cloud service/App modernization"
+    ],
+    "updated": "2025-01-23 14:05:28",
+    "wordcloud": 1
+}
